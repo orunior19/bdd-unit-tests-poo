@@ -1,0 +1,11 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.colorTheme": "Hyper Term Black",
+    "cSpell.userWords": [
+        "é"
+    ],
+    "explorer.confirmDragAndDrop": false,
+    "window.zoomLevel": -1
+}
